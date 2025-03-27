@@ -1,7 +1,7 @@
 # Portfolio Website
  <html>
     <head> 
-        <title> Blah </title>
+        <title>Blah</title>
      </head>
     <body>
      <h1> Home </h1>
