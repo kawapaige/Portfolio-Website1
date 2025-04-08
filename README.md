@@ -7,4 +7,3 @@ This is a simple portfolio website showcasing my class projects. It includes:
 - A projects page with my audio narrative and video essay
 - Simple navigation between pages
 
-The website uses basic HTML with links, images, and audio elements.
