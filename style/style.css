@@ -1,11 +1,21 @@
-body (
+body {
     background-color: #00FFFF;
-)
+}
 
-h1 (
-    color: #F0F8FF;
-)
+h1 {
+    background-color: #F0F8FF;
+}
 
-h2 (
-    color: #5F9EA0;
-)
+p {
+    background-color: #136bb8;
+    padding: 5px;
+    margin: 0px;
+}
+
+ul {
+    background-color: #136bb8;
+}
+
+h2 {
+    background-color: #5F9EA0;
+}
